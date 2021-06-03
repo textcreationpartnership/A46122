@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Impartial account of the proceedings at Guild-Hall, the 5th of this instant September, 1683 upon the election of a sheriff to serve for the insuing year : as likewise chamberlain, ale-conner &amp;c., being a brief relation of what remarkably occurred upon the said elections.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46122</idno><idno type="EEBO-CITATION">15586476</idno>
+  <idno type="VID">103984</idno>
+  <idno type="EEBO-PROQUEST">2240865354</idno>
+  
+            <idno type="STC">Wing I75</idno>
+            <idno type="STC">ESTC R36013</idno>
+            <idno type="OCLC">15586476</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A46122)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103984)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1150:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Impartial account of the proceedings at Guild-Hall, the 5th of this instant September, 1683 upon the election of a sheriff to serve for the insuing year : as likewise chamberlain, ale-conner &amp;c., being a brief relation of what remarkably occurred upon the said elections.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Grantham,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Local elections --  England --  London.</term>
+               <term type="geographic_name">London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:103984:1"/>
+            <pb facs="tcp:103984:1"/>
+            <head>AN IMPARTIAL ACCOUNT OF THE PROCEEDINGS AT GUILD-HALL The 5th of this Instant <hi>September,</hi> 1683.</head>
+            <head type="sub">Upon the Election of a Sheriff to serve for the insuing year; as likewise Chamberlain, Ale-Conner, <hi>&amp;c.</hi> being a brief re<g ref="char:EOLhyphen"/>lation of what remarkably occurred upon the said Elections.</head>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Entred according to ORDER.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>THE Right Honourable the Lord Mayor and Court of Aldermen, for some weighty considerations, having adjorned the Election of Sheriffs, Chamberlain, Aleconner, <hi>&amp;c.</hi> on <hi>Midsummer</hi> day last, till the 5th of this Instant <hi>September,</hi> the respective Liveries; upon Summons received in order thereto, came to the <hi>Guild-hall</hi> of the City of <hi>London,</hi> whether after they had attended some time, the Right Honourable the Lord Mayor came attended by the Sheriffs, and ac<g ref="char:EOLhyphen"/>companied by most of the Aldermen his Brethren, being received into the Hall with much reverence and great respect by the Electors, through which he passed into the Council Chamber. From whence after a while returning, he went upon the <hi>Hustings,</hi> where taking the Chair, Proclamation was made by the Common Cryer, as is customary upon the like occasion, at the end of which there being a great silence throughout the Hall so far from the last years disorder that scarsly the murmure of a voice was heard till the Candidates were put up in order to the Election of one Sheriff to stand w th <hi>Peter Daniel,</hi> Esq; Elected by the Right Honourable the Lord Mayor; those in nomination were <hi>Francis Dashwood,</hi> Esq; Sr. <hi>William Dodson,</hi> Captain <hi>Francis Griffith,</hi> and some others but upon view it was apparent that by the majority of hands, the Election fell upon <hi>Francis Dashwood,</hi> Esq; whereupon he, together with <hi>Peter Daniel,</hi> Esq; was declared Sheriff Elect of <hi>London</hi> and <hi>Midlesex</hi> for the ensuing year.</p>
+            <pb facs="tcp:103984:2"/>
+            <p>This Election happily made in a quiet and peaceable manner, according to the good order and custom of the City, the persons standing in competition for Chamberlain were put up, who were <hi>Henry Loads</hi> and Mr. <hi>Peter Aleworth</hi> (Sir <hi>Thomas Player</hi> as 'tis said declining it) for the former a consider<g ref="char:EOLhyphen"/>able number of hands were put up; but upon view the majority of Votes was adjudged to fall upon the latter, who was thereupon declared Chamber<g ref="char:EOLhyphen"/>lain Elect, in order to his taking upon him that great and honourable trust. Sir <hi>Thomas Player</hi> was by some in nomination; but the Votes for him were few or none. These Elections were carried with all evenness, moderation and civi<g ref="char:EOLhyphen"/>lity, without any hears or clashing. The which being over, divers persons were in nomination for the Place of Bridge-Master, vacant by the death of Deputy <hi>Sexton,</hi> when for <hi>Theophilus Smith</hi> and <hi>William Topham</hi> the Votes ad<g ref="char:EOLhyphen"/>mitting of difficulty in decision, to whom the majority fell: And a Pole de<g ref="char:EOLhyphen"/>manded, the Pole was granted, and the Hall Adjorned till Four in the After<g ref="char:EOLhyphen"/>noon, at what time the Pole began, and was carried on with all regularity. Divers persons being put up for the place of Ale-Conner, Mr. <hi>Welling</hi> a <hi>Coffee-man</hi> carried it by the majority of Voices.</p>
+            <p>Upon these Elections Mr. Recorder made a most Elegant Speech to the Common Hall, setting forth the occasion of their meeting, admonishing them to proceed regularly in the business of the day, without any heats, or passion; but as Loyal and worthy Citizens, to Elect such persons as were of known Loyalty and Integrity, or to this Effect: And in sine, never was any Election more fair and regular in the knowledg of Man, to the great satis<g ref="char:EOLhyphen"/>faction of all the well-affected.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London: Printed by J. Grantham, 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
